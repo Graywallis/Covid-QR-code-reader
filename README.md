@@ -9,3 +9,4 @@ It required that I read the QR code using A.N.Other QR code reader, as can be fo
 After downloading Pydroid3 onto my tablet and some further modifications this ran successfully.
 At this point it still required the slightly klunky reading the QR code externally and doing a cut&paste transfer.
 Current stage (19/Dec/21) is searching for some way to get Pydroid3, or any other Python IDE to read the QR code AND run my script.
+Please note much of what I have written has been based on a script from Hannob without which I would have not made any progress at all.
